@@ -1,6 +1,6 @@
 # Portfolio
 
------------------------------------- Work In Progress -----------------------------------------------------------------
+------------------------------------ Work In Progress --------------------------------
 
 Various personal and class projects done over my career 
 
